@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Movies/app/src/main/res/drawable/bg_shimmer.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Movies/app/src/main/res/drawable/ic_fav_border.xml" value="0.2235897435897436" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Movies/app/src/main/res/layout/activity_main.xml" value="0.2109375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Movies/app/src/main/res/layout/fragment_favorite.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Movies/app/src/main/res/layout/fragment_movies.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Movies/app/src/main/res/layout/movie_empty_state.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Movies/app/src/main/res/layout/movies_item.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Movies/app/src/main/res/layout/shimmer_movies.xml" value="0.2109375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Movies/app/src/main/res/layout/shimmer_upcoming.xml" value="0.2109375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Movies/app/src/main/res/layout/upcoming_item.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
